@@ -86,6 +86,3 @@ Mathex Calculator was developed as a beginner Python project to practice fundame
 It represents one of my first steps toward building more advanced Python projects.
 
 
----
-
-*More projects and improvements coming soon.*
