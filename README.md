@@ -41,7 +41,7 @@ No external libraries are required.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Mathex-Calculator.git
+   git clone https://github.com/leVoidRaptor/Calculator.git
    ```
 
 2. Navigate to the project directory:
